@@ -8,4 +8,4 @@ the logo was taken from https://goonj.org/.
 
 Rest of the website was made from scratch.
 
-The website is live at https://arpitmalik.github.io/synergy18/
+The website is live at https://dakshvarshneya.github.io/synergy18/
