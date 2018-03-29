@@ -4,7 +4,7 @@
 
 This website was made during DTU synergy WebDev (Front end) competition.
 
-the logo was taken from https://goonj.org/. 
+The logo was taken from [here](https://goonj.org/). 
 
 Rest of the website was made from scratch.
 
